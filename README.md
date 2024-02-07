@@ -45,6 +45,9 @@
 <a href="https://www.python.org/" target="_blank">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white">
 </a>
+<a href="https://www.java.com/en/" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white">
+</a>
 
 <!-- Web Development -->
 
