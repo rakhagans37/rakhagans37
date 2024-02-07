@@ -7,26 +7,24 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🔭 I’m currently a student of Telkom University
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 🌱 I’m currently learning Laravel, Mobile Programming ,Software Architecture, and Design Patterns
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 👯 I’m looking to collaborate on full stack website project
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 💬 Ask me about anything
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:muhammadrakha3704@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
+<a href="https://www.instagram.com/mrn.rakha" target="_blank">
 <img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-rakha-nasjaya" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
@@ -137,6 +135,3 @@
 <br>
 
 ------
-Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
-
-Last Edited on: 01/01/2024
