@@ -46,7 +46,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white">
 </a>
 <a href="https://www.java.com/en/" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </a>
 
 <!-- Web Development -->
@@ -67,6 +67,11 @@
 
 <a href="https://getbootstrap.com/" target="_blank">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+<!-- Backend Frameworks/Libraries -->
+<a href="https://laravel.com/" target="_blank">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2800?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
 
 <!-- Database -->
