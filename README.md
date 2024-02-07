@@ -43,7 +43,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
 <a href="https://www.python.org/" target="_blank">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white">
 </a>
 
 <!-- Web Development -->
